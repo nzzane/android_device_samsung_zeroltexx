@@ -30,7 +30,7 @@ TARGET_OTA_ASSERT_DEVICE := zeroltexx,zerolte
 TARGET_SPECIFIC_HEADER_PATH += device/samsung/zeroltexx/include
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_zeroltexx_defconfig
+TARGET_KERNEL_CONFIG := carbon_zeroltexx_defconfig
 
 # Partitions
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 3879731200
